@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "The Last Of Us",
+        "format": "Físico",
+        "value": 49
+    },
+    {
+        "id": 2,
+        "name": "The Last Of Us: Left Behind",
+        "format": "Digital",
+        "value": 29
+    },
+    {
+        "id": 3,
+        "name": "The Last Of Us Remastered",
+        "format": "Físico",
+        "value": 69
+    },
+    {
+        "id": 4,
+        "name": "The Last Of Us Part 2",
+        "format": "Físico",
+        "value": 219
+    },
+    {
+        "id": 5,
+        "name": "Resident Evil 7 Biohazard",
+        "format": "Físico",
+        "value": 99
+    },
+    {
+        "id": 6,
+        "name": "Resident Evil 2 Remake",
+        "format": "Digital",
+        "value": 43
+    }
+]
