@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "example_ecommerce",
+    "name": "ExApp",
     "slug": "example_ecommerce",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -17,10 +17,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.lucaszdev.exapp"
     },
-    "web": {
-      "favicon": "./assets/favicon.png"
+    "android": {
+      "package": "com.lucaszdev.exapp"
     }
   }
 }

@@ -9,7 +9,7 @@ export default function About() {
     return (
         <View style={styles.container}>
             <Text style={styles.textmain}>ExApp</Text>
-            <Text style={styles.textversion}>Version 1.0</Text>
+            <Text style={styles.textversion}>Version 1.0.0</Text>
             <IconSimpleLineIcons
                 name="info"
                 size={50}
@@ -21,7 +21,7 @@ export default function About() {
             </Text>
             <TouchableOpacity
                 style={styles.licensebutton}
-                onPress={() => Linking.openURL("https://github.com/lucaszdev/")}
+                onPress={() => Linking.openURL("https://github.com/lucaszdev?tab=repositories")}
             >
                 <Text style={styles.licensetext}>LICENÇAS</Text>
             </TouchableOpacity>
